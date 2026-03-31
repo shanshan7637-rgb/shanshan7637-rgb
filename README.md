@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammed Shan
 
-<!--
-**shanshan7637-rgb/shanshan7637-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Cyber Security Enthusiast  
+🔐 Aspiring Ethical Hacker  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🛡 Currently learning Cyber Security  
+- 🌱 Focused on Ethical Hacking  
+- 🎯 Goal: Become a Professional Ethical Hacker  
+
+---
+
+## 🚀 Skills
+- 🐧 Linux  
+
+---
+
+## 🛠 Tools
+- 🔍 Nmap  
+
+---
+
+## 📂 Projects
+- 🔹 Cyber Security Practice Projects  
+
+---
+
+## 📫 Contact Me
+- 📧 Email: shanshan7637@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+
+---
+
+## 🔥 Motto
+"Stay simple. Stay secure 🔐"
